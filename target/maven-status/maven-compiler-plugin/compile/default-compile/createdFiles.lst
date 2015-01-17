@@ -1,0 +1,12 @@
+com/myproject/config/MyUserDetailsService.class
+com/myproject/resolver/JsonViewResolver.class
+com/myproject/config/Dispatcher.class
+com/myproject/Status.class
+com/myproject/User.class
+com/myproject/DaoInterfaceImpl.class
+com/myproject/UserRole.class
+com/myproject/DaoInterface.class
+com/myproject/MainController.class
+com/myproject/config/ApplicationContext.class
+com/myproject/config/SecuritySettings.class
+com/myproject/UserPersonal.class
